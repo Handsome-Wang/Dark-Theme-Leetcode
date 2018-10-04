@@ -8,7 +8,7 @@
 
 <br>
 
-![](doc/1.jpg)
+![](doc/1.png)
 
 # Usage
 
